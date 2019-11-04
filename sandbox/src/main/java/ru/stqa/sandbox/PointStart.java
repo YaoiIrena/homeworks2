@@ -11,6 +11,7 @@ public class PointStart {
     }
 
     public double x2x1() {
+
         return Math.pow((this.x2 - this.x1), 2);
     }
 }

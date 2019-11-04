@@ -13,6 +13,7 @@ public class PointEnd
 
     public double y2y1()
     {
+
         return Math.pow((this.y2 - this.y1), 2);
     }
 }
