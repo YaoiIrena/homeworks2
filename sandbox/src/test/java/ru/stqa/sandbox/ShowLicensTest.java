@@ -1,4 +1,4 @@
-package ru.stqa.sandbox.gis;
+package ru.stqa.sandbox;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoAlertPresentException;
